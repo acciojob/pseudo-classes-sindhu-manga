@@ -15,9 +15,12 @@ body{
 	--last-bg:black;
 }
 h1{
-	background-color:black;
+	background-color: var(--first-bg);
 	color:white;
 	font-size:20px;
+}
+p{
+	color:black;
 }
 ul>li{
 	background-color:grey;
